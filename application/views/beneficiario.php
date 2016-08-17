@@ -129,6 +129,8 @@
       <label>Sem Carências.</label>
     <?php } ?>
   </div>
+  
+  <div class="img-contatos-ans"><img src="../../assets/images/img-contatos-ans.jpg"/></div>
 
 </div><!-- /.container -->
 

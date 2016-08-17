@@ -220,6 +220,8 @@ a:hover {color:#000; text-decoration:none;}
 	-webkit-border-radius: 3px;
 	-moz-border-radius: 3px;
 	border-radius: 3px;
+	width: 300px;
+    margin-top: 150px;
 	}
 	
 .form-control {
@@ -328,6 +330,19 @@ table.dataTable thead .sorting, table.dataTable thead .sorting_asc, table.dataTa
 	background:#F2F3F3;
 }
 
+.footer-links div a strong {font-family: myriad-semibold;}
+
+.legenda-ans {
+	background: url(../images/legenda-ans.png) no-repeat; 
+	width: 457px; 
+	height: 158px;
+	float: right;
+    margin-top: 100px;
+    width: 50%;
+}
+.img-contatos-ans {
+	margin-top:150px;
+}
 
 
 /*-----------------------------------------------------------------------------------*
@@ -474,4 +489,3 @@ header {height: 85px;}
 
 
 }
-
